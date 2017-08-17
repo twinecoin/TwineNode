@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings/
+
+natives/*
+TwineNode/natives/*
+TwineNode/src/main/resources/**/*.dll
+TwineNode/src/main/resources/**/*.so.0
+
+bin/
+out/
+logs/
+target/
+jars/
+
+dependency-reduced-pom.xml
